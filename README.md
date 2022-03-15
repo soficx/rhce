@@ -8,7 +8,7 @@
 ### Description:
 
 These are a few practice exams to get ready for the Red Hat Certified Engineer exam<br> 
-The first practice exam was created by [Lisenet](https://www.lisenet.com/2019/ansible-sample-exam-for-ex294/) . The exam cover as many of the exam [objectives](https://www.redhat.com/en/services/training/ex294-red-hat-certified-engineer-rhce-exam-red-hat-enterprise-linux-8?section=Objectives) as possible
+The first practice exam was created by [Lisenet](https://www.lisenet.com/2019/ansible-sample-exam-for-ex294/) . The practice exams cover as many of the exam [objectives](https://www.redhat.com/en/services/training/ex294-red-hat-certified-engineer-rhce-exam-red-hat-enterprise-linux-8?section=Objectives) as possible
 
 ---
 #
